@@ -1,6 +1,6 @@
 module.exports = {
-    name: "set-welcimg",
-    description: "sets a welcome channel!",
-    permissions: ["ADMINISTRATOR"],
+    name: "test",
+    description: "a description",
+    permissions: ["SEND_MESSAGES"],
 
     run: async (client, interaction, args) => {}}
